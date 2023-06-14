@@ -4,7 +4,7 @@
     - name: Full Name
       value: Calen Patrick Ryan
     - name: Description
-      value: PhD level data scientist specializing in developing and testing tools for studying biological aging
+      value: Research data scientist specializing in developing and testing tools for studying biological aging
 
 - title: Education
   type: time_table
@@ -37,58 +37,57 @@
     - title: Associate Research Scientist and Lead Data Scientist
       institution: Columbia University Mailman School of Public Health Robert N. Butler Aging Center GeroScience Core
       year: 2023-present
-      description:
-        - Leading in the development of tools, data resources, and pipelines for studying biological aging in human population studies and clinical trials
-        - Currently managing and leveraging clinical and epigenetic data for more than 15 studies from the USA, Europe, and Asia to support broader research goals within the Geroscience Computational Core at Columbia
+   #   description:
+   #     - Leading in the development of tools, data resources, and pipelines for studying biological aging in human population studies and clinical trials
+   #     - Currently managing and leveraging clinical and epigenetic data for more than 15 studies from the USA, Europe, and Asia to support broader research goals within the Geroscience Computational Core at Columbia
 
     - title: Post-doctoral Research Scientist
       institution: Columbia University Mailman School of Public Health - Robert N. Butler Aging Center
       year: 2022-2023
-      description:
-        - Led reanalysis and revisions on study of the effect of caloric restriction on epigenetic aging, as part of the CALERIE(tm) research team. 
-        - 
-        - Acquired, curated, developed and implemented computational and analytic pipelines for several proprietary and large, publicly-available datasets
+  #    description:
+  #      - Led reanalysis and revisions on study of the effect of caloric restriction on epigenetic aging, as part of the CALERIE(tm) research team. 
+  #      - Acquired, curated, developed and implemented computational and analytic pipelines for several proprietary and large, publicly-available datasets
 
     - title: Post-doctoral Research Scholar
       institution: Northwestern University, Department of Anthropology
       year: 2021-2022
-      description:
-        - Led DNA methylation preprocessing, quality control, and epigenetic clock and immune cell composition calculation for the CLHNS, a long-term study in the Philippines (n = 1800 men and women, n = 370 pregnant women as part of follow-up study)
-        - Led and supported several publications on maternal immunity and DNA methylation during pregnancy and early life exposures and adult epigenetic aging in the form of conceptual design, data analysis, writing, and review 
-        - Managed two additional research projects, resulting in a <a href="https://doi.org/10.1186/s13148-022-01296-6">published</a> and a publication in review
+ #     description:
+ #       - Led DNA methylation preprocessing, quality control, and epigenetic clock and immune cell composition calculation for the CLHNS, a long-term study in the Philippines (n = 1800 men and women, n = 370 pregnant women as part of follow-up study)
+ #       - Led and supported several publications on maternal immunity and DNA methylation during pregnancy and early life exposures and adult epigenetic aging in the form of conceptual design, data analysis, writing, and review 
+ #       - Managed two additional research projects, resulting in a <a href="https://doi.org/10.1186/s13148-022-01296-6">published</a> and a publication in review
 
 
-- title: Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+#- title: Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#      year: 2015-now
+#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+#- title: Honors and Awards
+#  type: time_table
+#  contents:
+#    - year: 1921
+#      items: 
+#        - Nobel Prize in Physics 
+#        - Matteucci Medal
+#    - year: 2029
+#      items: 
+#        - Max Planck Medal
+#
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1.
+#      items: 
+#       - Description 1.
+#        - Description 2.
+#    - title: Topic 2.
+#      items:
+#        - Description 1.
+#        - Description 2.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
