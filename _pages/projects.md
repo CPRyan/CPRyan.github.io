@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /projects/
-description: A collection of cool stuff my colleagues and I are working on. This page is currently under development, so check back soon!
+description: A collection of cool stuff my colleagues and I are working on. 
 nav: true
 nav_order: 2
 display_categories: [work, fun]
