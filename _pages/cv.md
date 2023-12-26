@@ -10,3 +10,5 @@ cv_pdf: CPR_CV2.pdf
 Click on the PDF image for a (semi-regularly) updated Curriculum Vitae of Dr. Ryan.
 
 
+
+
