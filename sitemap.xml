@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://cpryan.github.io/news/announcement_2/</loc>
+<loc>https://cpryan.github.io/news/announcement_4/</loc>
 <lastmod>2020-09-01T20:11:00+00:00</lastmod>
 </url>
 <url>
-<loc>https://cpryan.github.io/news/announcement_1/</loc>
+<loc>https://cpryan.github.io/news/announcement_3/</loc>
 <lastmod>2020-11-25T19:59:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://cpryan.github.io/news/announcement_2/</loc>
+<lastmod>2022-02-14T19:59:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://cpryan.github.io/news/announcement_1/</loc>
+<lastmod>2023-02-14T19:59:00+00:00</lastmod>
 </url>
 <url>
 <loc>https://cpryan.github.io/blog/2015/formatting-and-links/</loc>
@@ -82,19 +90,19 @@
 </url>
 <url>
 <loc>https://cpryan.github.io/projects/1_project/</loc>
-<lastmod>2023-12-25T21:19:46+00:00</lastmod>
+<lastmod>2023-12-26T00:09:37+00:00</lastmod>
 </url>
 <url>
 <loc>https://cpryan.github.io/projects/2_project/</loc>
-<lastmod>2023-12-25T21:19:46+00:00</lastmod>
+<lastmod>2023-12-26T00:09:37+00:00</lastmod>
 </url>
 <url>
 <loc>https://cpryan.github.io/projects/3_project/</loc>
-<lastmod>2023-12-25T21:19:46+00:00</lastmod>
+<lastmod>2023-12-26T00:09:37+00:00</lastmod>
 </url>
 <url>
 <loc>https://cpryan.github.io/teaching/1_project/</loc>
-<lastmod>2023-12-25T21:19:46+00:00</lastmod>
+<lastmod>2023-12-26T00:09:37+00:00</lastmod>
 </url>
 <url>
 <loc>https://cpryan.github.io/</loc>
