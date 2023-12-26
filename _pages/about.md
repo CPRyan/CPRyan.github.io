@@ -18,10 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 
 ---
-I am a human biologist specializing in the role of **epigenetic processes in reproduction, aging, and health**.
 
-My work utilizes bioinformatics and computational statistics to analyze high-throughput genetic and epigenetic data from large, longitudinal population datasets. My primary research is conducted in the Cebu Metropolitan Area, in the Philippines. 
+Dr. Ryan is an Associate Research Scientist in the Columbia Aging Center Geroscience Core at the Mailman School of Public Health, Columbia University. 
 
-The overarching aim of my research is to bring the fundamental biological processes underlying evolutionarily-motivated questions to light, informing evolutionary biology, medicine, and public health.
+His work sits at the intersection of evolutionary biology, medicine, and public health, integrating high-throughput epigenetic data with large, longitudinal datasets to explore the impact of reproduction, stress, and energy on biological aging. Dr. Ryan's research has received support from institutions such as the National Science Foundation, the National Institute on Aging, the National Institute of Environmental Health Sciences, and the Natural Sciences and Engineering Research Council of Canada. His work has also been featured in popular media outlets, including The Washington Post, CNN, the BBC, NBC, and Time Magazine.
 
-Click [here](assets/pdf/CPR_CV2.pdf) for my full CV.
+Click [here](assets/pdf/CPR_CV2.pdf) for his full CV.

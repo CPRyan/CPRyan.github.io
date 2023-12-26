@@ -1,12 +1,8 @@
 ---
 layout: post
-title: Under construction.
-date: 2020-09-01 16:11:00-0400
-inline: false
+date: 2022-02-14 15:59:00-0400
+inline: true
 related_posts: false
 ---
 
-Have you heard about Epigenetic clocks, but don’t know where to start? In my new paper, out now in AJHB, I discuss what are they, how are they constructed, and what can they tell us about human health and natural variation in biological aging.
-
-A one-stop-shop for both the theoretical and practical aspects of using epigenetic clocks in Anthropology, Medical Genetics, and aligned fields! Check it out [at the journal](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajhb.23488) or download here.
-
+I have a new article in [Evolution, Medicine, and Public Health](https://doi.org/10.1093/emph/eoac003) - DNA methylation analysis reveals epigenetic shift toward risk for metabolic disease, cervical cancer, autoimmune disorders during pregnancy and recovery to pre-pregnancy risk postpartum. For an overview, check out [the Twitter thread].(https://twitter.com/CalenRyan/status/1501050018471501825)
