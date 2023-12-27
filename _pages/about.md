@@ -19,8 +19,13 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-Dr. Ryan is an Associate Research Scientist in the Columbia Aging Center Geroscience Core at the Mailman School of Public Health, Columbia University. 
+My work explores the effects of reproduction and stress on health and biological aging. I use high-dimensional epigenetic data and computational statistics to study the molecular processes that predict healthy aging. 
 
-His work sits at the intersection of evolutionary biology, medicine, and public health, integrating high-throughput epigenetic data with large, longitudinal datasets to explore the impact of reproduction, stress, and energy on biological aging. Dr. Ryan's research has received support from institutions such as the National Science Foundation, the National Institute on Aging, the National Institute of Environmental Health Sciences, and the Natural Sciences and Engineering Research Council of Canada. His work has also been featured in popular media outlets, including The Washington Post, CNN, the BBC, NBC, and Time Magazine.
+Most of my work has focused on the [Cebu Longitudinal Health and Nutrition Survey (CLHNS)](https://cebu.cpc.unc.edu/) in the Philippines, and other large, longitudinal human population studies. More recently, I have applied the same tools to study biological aging in randomized-controlled trails of geroprotective interventions, such as [caloric restriction](https://calerie.duke.edu/).
+
+My work is situated at the intersection of evolutionary biology, medicine, and public health, and has received support from institutions such as the National Science Foundation, the National Institute on Aging, the National Institute of Environmental Health Sciences, and the Natural Sciences and Engineering Research Council of Canada. 
+
+
+The findings of my colleagues and I have been featured in popular media outlets, including [The Washington Post](https://www.washingtonpost.com/health/do-pregnancy-and-childbirth-accelerate-aging-in-women-maybe/2019/10/18/635dbd7c-e516-11e9-b403-f738899982d2_story.html), [CNN](https://www.cnn.com/2023/02/10/health/restricting-calories-longevity-wellness/index.html), the [BBC-Russia](https://www.bbc.com/russian/features-47899412), [NBC](https://www.healthline.com/health-news/having-a-baby-can-age-you), and [Time Magazine](https://time.com/6254236/slow-human-aging/).
 
 Click [here](assets/pdf/CPR_CV2.pdf) for his full CV.
