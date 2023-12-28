@@ -2,7 +2,7 @@
 layout: page
 title: Reproduction and Aging
 description: Testing the 'costs of reproduction' in women and men
-img: assets/img/12.jpg
+img: assets/img/woman_piechart.jpg
 importance: 1
 category: work
 ---

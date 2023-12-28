@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Sperm epigenetics and inheritance.
+title: Germline Epigenetic Inheritance
 description: Can the experiences of our forefathers affect our biology and health?
-img: assets/img/7.jpg
+img: assets/img/paternal_inheritance.jpg
 redirect: 
 importance: 3
 category: work

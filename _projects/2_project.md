@@ -2,7 +2,7 @@
 layout: page
 title: Epigenetics and Inequality
 description: How does stress and adversity 'get under the skin'?
-img: assets/img/3.jpg
+img: assets/img/inequality.jpeg
 importance: 2
 category: work
 ---
