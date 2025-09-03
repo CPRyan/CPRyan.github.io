@@ -6,7 +6,7 @@ subtitle: <a href="#">Assoc. Research Scientist and Lead Data Scientist - Robert
 
 profile:
   align: right
-  image: Calen_Keremeos.jpg
+  image: 6S7A1403.JPG
   address: >
     <p>Office: #414</p>
     <p>722 W. 168th Street</p>
