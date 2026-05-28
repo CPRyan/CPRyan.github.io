@@ -1,47 +1,32 @@
 ---
 layout: page
-title: Evolutionary Medicine
-description: Why do we get sick?
+title: Data Science Training in Epidemiology and Geroscience
+description: Reproducible, robust, and secure research workflows for cohort, omics, EHR, and aging studies
 img: assets/img/darwin.jpg
 importance: 1
 category: Teaching
 ---
 
 
-Biomedical science has improved the human condition and has a remarkable legacy of cataloging disease and mitigating its negative effects. Nevertheless, many questions about why we get sick continue to elude us: Why do we age? Why is cancer so common and hard to treat? Why are bacteria becoming drug resistant? And why are the genes that cause certain diseases so prevalent in human populations? These kinds of questions are being addressed by biologists, epidemiologists, veterinarians, and medical professionals in the field of Evolutionary Medicine. This course will give an introduction to Evolutionary Medicine and explore why understanding of our health requires the broader context provided by evolutionary theory.
-Charles Darwin struggled to explain the many sicknesses that afflict humans and other species. With advances in our understanding of evolutionary processes, including tradeoffs, constraints, mismatches, coevolution, and the key role social forces, we are beginning to answer questions about human health and disease that Darwin never could.
+My teaching and mentoring are primarily embedded in research programs, collaborative projects, and invited training contexts. I am a research scientist, so my role is not built around a conventional teaching portfolio. Instead, I focus on helping trainees build the practical infrastructure they need to do high-quality data science in epidemiology, geroscience, and population health.
 
+Much of this work involves onboarding new students and analysts, including many international trainees from Chinese and South Asian backgrounds, into the standard operating procedures of research data science. I teach workflows for reproducible analysis, transparent documentation, secure handling of sensitive data, version control, collaborative coding, quality control, and robust project organization.
 
+## Training Focus
 
-#### Topics covered will include:
+My training emphasizes habits that make research more reliable and easier to extend:
 
-* Fundamental Principles of Evolutionary Medicine
-* Selection, genetic variation and human disease
-* Gene-culture coevolution; Gene-environment mismatch
-* Plasticity, epigenetics, and development
-* Biocultural perspectives in human health
-* Stress, inequality, and health
-* Hormones, Life history, Reproduction
-* Aging and Menopause
-* Kin selection, genomic conflict, imprinting, microchimerism
-* Cancer: A microevolutionary process
-* Host-parasite Co-evolution; Evolutionary Epidemiology
-* Evolution of Human Cognition, Mental Health and Susceptibility to Addiction
+* Structuring projects so analyses are reproducible and auditable
+* Documenting data provenance, cleaning decisions, and analytic assumptions
+* Protecting sensitive cohort, clinical, omics, and EHR data
+* Using version control and collaborative workflows effectively
+* Building analysis pipelines that can be reviewed, rerun, and adapted
+* Translating biological and epidemiologic questions into defensible statistical workflows
 
+These skills are especially important in large, interdisciplinary projects where students must move between biological theory, cohort design, data management, high-dimensional molecular data, clinical records, and statistical modeling.
 
-#### Required Textbooks:
+## Invited Teaching
 
-    Stearns SC, Koella JC. Evolution in health and disease. OUP Oxford; 2007.
-    Nesse RM, Williams GC. Why we get sick: The new science of Darwinian medicine. Vintage; 1996.
-
-Articles:
-
-    Articles will be posted on Canvas the week before readings are to be done.
-
-More information about class structure and readings will be posted to Canvas and provided in the syllabus.
-
-"Evolution is a tinkerer, an ad-hocker, and a jury-rigger. It works with what it has on hand, not with what it has in mind. Some of its inventions prove elegant, while in others you can see the seams and the dried glue." - Writer and Science Journalist Natalie Angier
+I also enjoy formal teaching when opportunities arise. My prior teaching includes introductory and foundational material in evolutionary medicine, aging, reproduction, stress, inequality, development, and biocultural approaches to health. Evolutionary medicine remains an important intellectual foundation for my research and mentoring, but my current teaching contribution is best understood as selective, research-embedded training rather than a stand-alone course portfolio.
 
  {% include figure.html path="assets/img/elife-evolutionary-medicine-2.jpg" class="img-fluid rounded z-depth-1" %} 
-
-

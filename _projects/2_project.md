@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Epigenetics and Inequality
-description: How does stress and adversity 'get under the skin'?
+title: Physiological Stress Across the Life Course
+description: Studying how stress, reproduction, and clinical insults shape biological aging and resilience
 img: assets/img/inequality.jpeg
 importance: 2
 category: work
@@ -9,20 +9,18 @@ category: work
 
 ## Background
 
-Socioeconomic status (SES) is linked to health and well-being of individuals and communities. Poorer measures of SES such as social status, income, and education increase risks for depression, heart disease, inflammation, and certain cancers. Early life exposures appear to be particularly important to adult health. Notably, these effects can persist even in the context of social mobility, when individuals manage to improve in socioeconomic position over their lifetime. If, when and how individuals recover from the early life adversity associated with low SES has both theoretical and clinical health implications, but are only beginning to receive attention.
+Much of my work asks how physiological stress is recorded in biological systems and how those signatures relate to aging, resilience, and disease risk. I use the term stress broadly, including reproductive demands, psychosocial adversity, caloric restriction, pregnancy complications, and acute clinical events such as major surgery.
 
-Despite the widely documented connection between social experiences and health outcomes, the processes through which the ‘social gradient in health’ becomes biologically-embedded are still not well understood. While the range of exposures that relate to SES are myriad, a promising avenue for studying the biological ‘memory’ of SES more broadly may lie in epigenetic processes. Epigenetic processes involve mitotically- or meiotically-heritable changes in gene function that are not associated with the underlying DNA sequence itself. Epigenetic dysregulation can lead to or arise from disease through numerous pathways, and have been causally-associated with depression, heart disease, inflammatory profiles, and cancer.
+This framework grew out of work on life history theory, developmental origins of health and disease, and social inequality. Earlier projects examined how early life environments and socioeconomic conditions become biologically embedded through DNA methylation and inflammatory pathways. That work continues to shape how I think about stress: not as a single exposure, but as a set of social, energetic, reproductive, and clinical demands that interact with biology across the life course.
 
-I have led the bioinformatic analysis and co-written multiple papers examining the role of DNA methylation (a kind of epigenetic process) in the developmental origins of health and disease (DOHaD). In McDade, Ryan et al. 2017, we showed that that nutritional, microbial, and psychosocial exposures early in life predict DNAm in genes associated with inflammation measured in adulthood.
-Volcano plots of the associations between DNAm in young adulthood and variables measured early in development, including (A) household assets in childhood, (B) extended parental absence in childhood, (C) exposure to animal feces in infancy, (D) birth in the dry season, and (E) duration of exclusive breastfeeding. Each point represents a CpG site (n = 222), with the magnitude of association between each variable and DNAm on the x axis (delta beta) and –log10 of the uncorrected P value from the linear regression models on the y axis. Blue dots represent sites with adjusted P values < 0.15.
-The effect of early life environment was particularly evident in some genes associated with inflammation for example CD8A. CD8A is a cell surface glycoprotein found on most cytotoxic T lymphocytes that mediates efficient cell-cell interactions within the immune system. This allows cytotoxic T cells to recognize and eliminate infected cells and tumor cells. The link between early life exposure to animal feces and this important immune associated gene may help us understand the commonly observed correlation between exposure to microbial diversity in childhood and adult chronic disease, often theorized by the hygiene hypothesis.
+## Current Work
 
-In McDade, Ryan et al. 2019, we expanded on our original questions about early life environments and adult health by examining the effects of socioeconomic status on DNA methylation.
-Volcano plot comparing low/low to high/high SES score (high/high as reference). Each point represents the difference in methylation between groups, with colored points representing significant down-methylation (red) and up-methylation (green) after accounting for false discovery (FDR q < 0.05). Taken from McDade, Ryan et al. 2019.
+My current projects apply this framework to several human settings. I study maternal stress and fetal/placental epigenetics, including work on how maternal physiology and social experience may shape placental development. I also work on caloric stress and aging through studies of caloric restriction, where biological aging measures can help evaluate whether interventions alter aging-related molecular processes.
 
-We found large numbers of differentially methylated positions associated with SES, totalling 2,546 CpG sites across 1,537 annotated genes. Many of these differences were found in regions otherwise tied to cardiovascular risk and other diseases, providing a link between inequality and health.
-To better understand the relative contribution of different exposures to DNAm, we broke our analyses down by commonly measured aspects of SES. Education was the single most important factor determining differences in DNAm, highlighting the importance of future research into the ways that environments and inequality 'get under the skin' and ultimately affect the health of marginalized people.
+I am also developing work that uses electronic health record laboratory measures to study resilience to cardiothoracic surgery. This project asks whether routine clinical data can be used to measure biological reserve, recovery, and vulnerability around major physiological stress.
 
-## Future research
+## Emerging Direction
 
-To address population stratification and genetic variation, we used the top 2 principle components of the high-dimensional genomic dataset (Infinium Global Screening Array-24 Kit). We are now expanding our original analysis by incorporating participants’ whole genome (~640,000 single nucleotide polymorphisms, SNPs per individual). This will help us understand how an individual’s genetic variation (DNA) alters the way socioeconomic status affects their epigenome. Our preliminary evidence suggests that the effect of the environment is mediated in part by individual genetic factors, a finding that we hope will tell us more about how individuals differ in their susceptibility and resilience to the exposures of socioeconomic inequality.
+An important emerging area of my research is the long-term health of women after adverse pregnancy outcomes. I am planning projects focused on how pregnancy complications may forecast later-life health and aging, without treating pregnancy as an isolated clinical event. Instead, I view pregnancy as a biologically informative stress test that may reveal underlying cardiometabolic, inflammatory, and aging-related risk.
+
+Together, these projects extend my earlier work on reproduction and inequality into a broader program on physiological stress, biological aging, and resilience.

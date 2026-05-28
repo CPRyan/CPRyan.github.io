@@ -2,7 +2,7 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: This is where I will be filling in my mentoring and teaching work. This page is currently under development, so check back soon!
+description: Training and mentoring in reproducible, secure, and collaborative data science for epidemiology and geroscience.
 nav: true
 nav_order: 5
 
