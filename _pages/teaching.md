@@ -20,7 +20,7 @@ nav_order: 5
     {% endif %}
       <div class="card hoverable">
         {% if project.img %}
-        <img src="{{ project.img | relative_url }}" alt="project thumbnail">
+        <img src="{{ project.img | relative_url }}" alt="project thumbnail" style="height: 180px; object-fit: cover; width: 100%;">
         {% endif %}
         <div class="card-body">
           <h2 class="card-title text-lowercase">{{ project.title }}</h2>
