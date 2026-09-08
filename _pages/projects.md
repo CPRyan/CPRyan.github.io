@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /projects/
-description: A collection of cool stuff my colleagues and I are working on. 
+description: Past, present, and future of my research on aging and health across the lifecourse.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
