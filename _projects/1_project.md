@@ -34,8 +34,13 @@ My goal is to help build biological aging measures that are interpretable, trans
 
 ## Selected References
 
-Ryan CP. [Epigenetic clocks: Theory and applications in human biology](https://doi.org/10.1002/ajhb.23488). <em>American Journal of Human Biology</em>. 2020.
+Belsky DW, Ryan CP. [A daily multivitamin slows the ticking of epigenetic clocks](https://www.nature.com/articles/s41591-026-04249-1). <em>Nature Medicine</em> 2026; 1–2.
+
+Ryan CP, Belsky DW. [Epigenetic clock work ticks forward](10.1038/s43587-024-00570-x). <em>Nature Aging</em>. 2024; 1–3.
 
 Ryan CP, Corcoran DL, Banskota N, et al. [The CALERIE Genomic Data Resource](https://doi.org/10.1038/s43587-024-00775-0). <em>Nature Aging</em>. 2024.
 
-Waziry R, Ryan CP, Corcoran DL, et al. [Effect of long-term caloric restriction on DNA methylation measures of biological aging in healthy adults from the CALERIE trial](https://doi.org/10.1038/s43587-022-00357-y). <em>Nature Aging</em>. 2023.
+Waziry R*, Ryan CP*, Corcoran DL, et al. [Effect of long-term caloric restriction on DNA methylation measures of biological aging in healthy adults from the CALERIE trial](https://doi.org/10.1038/s43587-022-00357-y). <em>Nature Aging</em>. 2023.
+*denotes co-first authors
+
+Ryan CP. [Epigenetic clocks: Theory and applications in human biology](https://doi.org/10.1002/ajhb.23488). <em>American Journal of Human Biology</em>. 2020.

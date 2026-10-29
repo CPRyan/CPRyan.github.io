@@ -38,4 +38,4 @@ Ryan CP, Jones MJ, Edgar RD, et al. [Immune cell type and DNA methylation vary w
 
 Shirazi TN, Hastings WJ, Rosinger AY, Ryan CP. [Parity predicts biological age acceleration in post-menopausal, but not pre-menopausal, women](https://doi.org/10.1038/s41598-020-77082-2). <em>Scientific Reports</em>. 2020;10:20522.
 
-Post SR, Ryan CP, Lee NR, et al. [Patterns of chronic stress in diurnal salivary cortisol already predict epigenetic age acceleration in young adults in the Cebu Longitudinal Health and Nutrition Survey](https://doi.org/10.1002/ajhb.70290). <em>American Journal of Human Biology</em>. 2026;38:e70290.
+Ryan CP, Hayes MG, Lee N, et al. [Reproduction predicts shorter telomeres and epigenetic age acceleration among young adult women](https://www.nature.com/articles/s41598-018-29486-4) <em>Scientific Reports</em>2018; 8:11100
